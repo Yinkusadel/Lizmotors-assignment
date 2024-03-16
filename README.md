@@ -1,6 +1,6 @@
 # Yinkusadel lizmotors assignment
 
-> A flowchart dashboard
+> This project aims to create visually appealing and interactive flow charts by leveraging HTML for the structural elements, CSS for styling , layout and JavaScript for interactivity.
 
 ![screenshot](./app_screenshot.png)
 
